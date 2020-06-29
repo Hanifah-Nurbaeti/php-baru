@@ -11,6 +11,7 @@
 
     <?php 
         echo "<h3>Soal No 1 Looping I Love PHP</h3>";
+        echo "hai";
         /* 
             Soal No 1 
             Looping I Love PHP
